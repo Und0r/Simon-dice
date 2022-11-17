@@ -1,0 +1,22 @@
+{
+  "name": "simon-dice",
+  "version": "1.0.0",
+  "description": "Ejemplo de juego Simon dice para r/argentina-programa utilizando JavaScript y Boostrap para darle estilo.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Und0r/simon-dice.git"
+  },
+  "author": "Alejandro Barria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Und0r/simon-dice/issues"
+  },
+  "homepage": "https://github.com/Und0r/simon-dice#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
